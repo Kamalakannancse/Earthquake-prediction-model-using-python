@@ -1,2 +1,4 @@
 # AI
-AI phase 1 submission
+#Earthquake perdiction model using python
+#In progarm excute in anacoda and jupter notebook
+
